@@ -1,0 +1,60 @@
+C:\Users\isail\Documents\List C#\List\List\bin\Debug\net6.0\List.exe
+C:\Users\isail\Documents\List C#\List\List\bin\Debug\net6.0\List.deps.json
+C:\Users\isail\Documents\List C#\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\isail\Documents\List C#\List\List\bin\Debug\net6.0\List.dll
+C:\Users\isail\Documents\List C#\List\List\bin\Debug\net6.0\List.pdb
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.dll
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.pdb
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+C:\Users\isail\Documents\List C#\List\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\bin\Debug\net6.0\List.exe
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\bin\Debug\net6.0\List.deps.json
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\bin\Debug\net6.0\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\bin\Debug\net6.0\List.pdb
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.pdb
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\reto3-list\List\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\bin\Debug\net6.0\List.exe
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\bin\Debug\net6.0\List.deps.json
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\bin\Debug\net6.0\List.dll
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\bin\Debug\net6.0\List.pdb
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.dll
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.pdb
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+C:\Users\isail\Downloads\Reto3-main\Reto3-main\List\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\bin\Debug\net6.0\List.exe
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\bin\Debug\net6.0\List.deps.json
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\bin\Debug\net6.0\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\bin\Debug\net6.0\List.pdb
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.pdb
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\5to Semestre UASLP\Tecnologia Orientada a Objetos\Reto3-main\List\List\obj\Debug\net6.0\ref\List.dll
